@@ -16,8 +16,6 @@ By now you are familiar with Swift's basic data types:
 * Int
 * Float
 * Double
-* Array
-* Dictionary
 
 "You can use *optionals* with any data type to signal that an instance is potentially **nil**."
 
@@ -25,5 +23,6 @@ By now you are familiar with Swift's basic data types:
 
 You may wish to make a summary note of these basic ideas in your sketchbook.  When you are ready, follow the link to the next page in this playground.
 
-*/
-//: [I've made notes and I'm ready to begin!](@next)
+ [Next page](@next)
+
+ */

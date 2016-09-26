@@ -1,5 +1,6 @@
-//: [Previous](@previous)
+
 /*:
+[Previous](@previous)
 ## Safely unwrapping optionals
 
 To summarize, when you append the ! character to an optional variable, this is called *force-unwrapping*.
@@ -19,5 +20,6 @@ As a more streamlined alternative, you can use *optional binding*.
 Keep in mind what Uncle Ben told Peter Parker:
 
 ![great-responsibility](great-responsibility.png)
+
+[Next](@next) 
 */
-//: [Next](@next)

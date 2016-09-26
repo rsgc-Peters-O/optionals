@@ -1,6 +1,6 @@
-//: [Previous](@previous)
-/*:
 
+/*:
+[Previous](@previous)
 ## Unwrapping optionals
 
 With this code:
@@ -22,12 +22,12 @@ We must *unwrap* the optional variable.
 Type the code you see below – note the changes on lines 3 and 4:
 
 ![force-unwrap](force-unwrap.png)
-
 */
+// Type your code below this line
 
 /*:
 
 Look closely at the output – how does it differ from the output you obtained earlier?
 
+[Next](@next)
 */
-//: [Next](@next)

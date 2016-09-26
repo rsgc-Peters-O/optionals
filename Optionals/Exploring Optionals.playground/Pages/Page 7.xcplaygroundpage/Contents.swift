@@ -1,5 +1,6 @@
-//: [Previous](@previous)
+
 /*:
+[Previous](@previous)
 ## Streamlined unwrapping
 
 You are not alone if you think this code is a bit ugly:
@@ -19,6 +20,7 @@ There is. It is called *optional binding*.  Type the following code:
 ![optional-binding](optional-binding.png)
 
 */
+// Type your code below this line
 
 /*:
 Line 2 is the key.
@@ -28,5 +30,6 @@ Line 2 is the key.
 When the optional variable **dayOfWeek** can be successfully unwrapped (when it is not nil) the first branch of the conditional runs.
 
 When the optional variable **dayOfWeek** cannot be unwrapped (when it is nil) the second branch of the conditional runs.
+
+ [Next](@next)
 */
-//: [Next](@next)

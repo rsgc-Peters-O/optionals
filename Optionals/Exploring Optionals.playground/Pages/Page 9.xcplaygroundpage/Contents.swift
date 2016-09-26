@@ -1,5 +1,6 @@
-//: [Previous](@previous)
+
 /*:
+[Previous](@previous)
 ## What have you learned?
 
 ![karate-kid](karate-kid.jpg)
@@ -10,5 +11,5 @@ If you find gaps, review earlier pages.
 
 Remember to take notes in your sketchbook.
 
+[Next](@next)
 */
-//: [Next](@next)

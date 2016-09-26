@@ -1,6 +1,5 @@
-//: [Previous](@previous)
 /*:
-
+[Previous](@previous)
 ## What is nil, really?
 
 Try typing the following code:
@@ -9,15 +8,14 @@ Try typing the following code:
 
 What is the result?
 */
+// Type your code below this line
 
 /*:
-
 After you try this, change the second line to:
 
 ![set-a-value](set-a-value.png)
 
-What is the reuslt?  What does this imply?
+What is the result?  What does this imply?
 
+[Next](@next)
 */
-
-//: [Next](@next)
