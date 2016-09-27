@@ -4,7 +4,7 @@
  
  Given a number, n, determine whether the number is prime.
  
- A prime number is has no positive divisors other than 1 and itself.
+ A prime number has no positive divisors other than 1 and itself.
  
  The input, n, can range between 2 and 99999, inclusive.
   
